@@ -1,0 +1,11 @@
+en:
+  key1: some value
+  key2: "another value with quotes"
+  key3: 'value with single quotes'
+  subkey:
+    subkey1: This is a sample text
+             <br><br> Some sample paragraph
+             Can we rewrite this without losing format
+    subkey2: Really really really Really really really Really really really Really really really Really really really long value, Really really really Really really really Really really really Really really really Really really really long value
+    subkey3: 'single quoted value that needs escaping dou"ble quotes'  
+  
